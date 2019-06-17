@@ -1,3 +1,1 @@
-# violerts.com
-
-violerts.com web application.
+Larave-Vue project for NYC DOB property notification system.
